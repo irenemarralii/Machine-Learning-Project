@@ -71,15 +71,15 @@ Certain biological markers, particularly liver enzyme levels and metabolic indic
 
 The correlation heatmap below highlights relationships between physiological variables in the dataset.
 
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Correlation Heatmap](Figures/correlation_heatmap.png)
 
 The confusion matrix illustrates the predictive performance of the final classification model.
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](Figures/confusion_matrix.png)
 
 SHAP explainability analysis reveals which variables contribute most strongly to model predictions.
 
-![SHAP Summary](images/shap_summary.png)
+![SHAP Summary](Figures/shap_summary.png)
 
 These results demonstrate the potential of machine learning techniques for identifying behavioral patterns in large-scale health datasets.
 
