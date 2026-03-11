@@ -83,7 +83,7 @@ SHAP explainability analysis reveals which variables contribute most strongly to
 
 These results demonstrate the potential of machine learning techniques for identifying behavioral patterns in large-scale health datasets.
 
-##Tech Stack
+## Tech Stack
 Language: Python
 
 Libraries:
