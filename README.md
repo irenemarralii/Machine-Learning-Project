@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/language-Python-blue)
+![Machine Learning](https://img.shields.io/badge/domain-Machine%20Learning-green)
+![Healthcare Data](https://img.shields.io/badge/domain-Health%20Data-orange)
+![University Project](https://img.shields.io/badge/type-Academic%20Project-lightgrey)
+
 # Machine-Learning-Project
 This project is part of a data science and machine learning study focused on applying predictive modeling techniques to real-world health-related data. It explores how structured data can be used to extract meaningful insights and support decision-making in public health contexts.
 
