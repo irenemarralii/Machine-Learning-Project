@@ -105,7 +105,7 @@ Methods:
 
 Additional materials for this project are available below.
 - **Project Notebook**: Full machine learning pipeline and analysis.
-[Open the notebook](Alcohol_consumption_Marrali.ipynb)
+[Open the notebook](Alcohol_consumption_Marrali(1).ipynb)
 
 ## Author
 Irene Marrali
