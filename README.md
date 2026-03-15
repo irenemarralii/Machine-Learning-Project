@@ -101,6 +101,12 @@ Methods:
 - feature importance analysis
 - explainable AI
 
+## Project Materials
+
+Additional materials for this project are available below.
+- **Project Notebook**: Full machine learning pipeline and analysis.
+[Open the notebook](Alcohol_consumption_Marrali.ipynb)
+
 ## Author
 Irene Marrali
 
